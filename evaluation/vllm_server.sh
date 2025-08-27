@@ -5,4 +5,4 @@ CUDA_VISIBLE_DEVICES=0,1,2,3 vllm serve /path/to/your_model_path \
     --trust-remote-code \
     --uvicorn-log-level debug \
     --host 0.0.0.0 \
-    --port 114514
+    --port 65535
