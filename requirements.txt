@@ -242,3 +242,11 @@ xxhash==3.5.0
 yarl==1.20.0
 zipp==3.21.0
 faiss==1.9.0
+multiprocess
+pebble
+httpx[socks]
+socksio
+vllm
+timeout_decorator
+pdfplumber
+nltk
